@@ -1,0 +1,48 @@
+body {
+    font-family: 'century gothic'
+}
+
+.menu{
+    text-decoration: none;
+    color : #000;
+}
+
+.slider{
+    height: 500px;
+}
+
+.title{
+    margin-left: 73%;
+    font-size: 20px;
+}
+
+.line{
+    background : #000;
+    width : 100px;
+    height : 3px;
+    margin-left: 73%;
+}
+
+.content{
+    text-align: justify;
+    line-height: 7px;
+}
+
+.container{
+    text-align: center;
+    background: #FBCAFF;
+    font-size: 21px;
+}
+
+.desc{
+    width: 700px;
+    text-align: justify;
+    margin-left: 8%;
+    margin-right: 10%;
+    line-height: 25px;
+}
+
+.sidebarr {
+    text-align: center;
+    background: #B2B1B9;
+}
